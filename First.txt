@@ -1,0 +1,7 @@
+Hello,
+
+Starting with Git
+
+commit2
+
+trying to Skip staged part
